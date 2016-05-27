@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Library/AnnotationManager
+Library/assetDatabase3
+Library/AssetServerCacheV3
+*.prefs
+*.asset
+
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
